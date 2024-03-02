@@ -96,7 +96,7 @@
     "mongodb": "^3.5.4",
     "monk": "^7.1.2",
     "monotonic-timestamp": "0.0.9",
-    "netmask": "1.0.6",
+    "netmask": "2.0.1",
     "newrelic": "^4.1.1",
     "node-anonize2-relic": "github:brave/node-anonize2-relic#388f15c6e5acb12336765713351817dfbee80129",
     "node-slack": "0.0.7",
