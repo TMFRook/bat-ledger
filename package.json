@@ -68,7 +68,7 @@
     "@hapi/inert": "^5.2.2",
     "@hapi/vision": "^5.5.4",
     "@octokit/rest": "^16.43.1",
-    "@sentry/node": "^5.13.2",
+    "@sentry/node": "^7.75.0",
     "@uphold/uphold-sdk-javascript": "github:brave-intl/uphold-sdk-javascript#bump-lodash-merge",
     "accept-language-parser": "1.4.1",
     "avro-js": "1.9.1",
